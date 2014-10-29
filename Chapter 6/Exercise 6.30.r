@@ -9,8 +9,7 @@ fuelOctaneRatings <- c(
 						92.6, 93.7, 96.5, 84.3, 93.2, 88.6, 88.7, 92.7,
 						89.3, 91.0, 87.5, 87.8, 88.3, 89.2, 92.3, 88.9,
 						89.8, 92.7, 93.3, 86.7, 91.0, 90.9, 89.9, 91.8,
-						89.7, 92.2
-					 )
+						89.7, 92.2)
 
 par(mfrow = c(2, 1))
 hist(fuelOctaneRatings, breaks = 8, freq = TRUE, main = "Frequency distribution")
