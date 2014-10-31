@@ -5,3 +5,4 @@ confidenceLevel <- 0.95
 
 wilcox.test(fluorideLevels, mu = nullMedianValue, alternative = "less",
 	conf.level = confidenceLevel, conf.int = TRUE)
+
