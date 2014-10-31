@@ -10,3 +10,4 @@ confidenceLevel <- 0.95
 
 wilcox.test(diameterMeasurements1, diameterMeasurements2, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = TRUE)
+
