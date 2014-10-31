@@ -8,3 +8,4 @@ confidenceLevel <- 0.95
 
 signTestNormalApproximation(titaniumContents, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
+
