@@ -5,4 +5,3 @@ confidenceLevel <- 0.99
 
 wilcox.test(mileages.Mercedes, mileages.Volkswagen, alternative = "two.sided",
 	conf.level = confidenceLevel, conf.int = TRUE)
-	

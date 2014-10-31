@@ -5,4 +5,3 @@ confidenceLevel <- 0.95
 
 wilcox.test(temperatures1, temperatures2, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = FALSE)
-	

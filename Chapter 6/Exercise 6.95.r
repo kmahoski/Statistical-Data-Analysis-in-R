@@ -30,4 +30,3 @@ abs(mean(batches, trim = 0.1) - mean(batches, trim = 0.2))
 100 * (1 - min(mean(batches, trim = 0.1),
 	mean(batches, trim = 0.2)) / max(mean(batches, trim = 0.1),
 	mean(batches, trim = 0.2)))
-	

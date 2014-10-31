@@ -5,4 +5,3 @@ confidenceLevel <- 0.95
 
 SIGN.test(surfaceFinishes, md = nullMedianValue, alternative = "two.sided",
 	conf.level = confidenceLevel)
-	

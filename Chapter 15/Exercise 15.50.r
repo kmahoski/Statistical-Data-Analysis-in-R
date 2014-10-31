@@ -5,4 +5,3 @@ confidenceLevel <- 0.95
 
 wilcox.test(weightsBefore, weightsAfter, alternative = "two.sided",
 	conf.level = confidenceLevel, conf.int = TRUE)
-	

@@ -5,4 +5,3 @@ confidenceLevel <- 0.975
 
 wilcox.test(currents1, currents2, alternative = "greater", conf.level = confidenceLevel,
 	conf.int = TRUE, paired = FALSE)
-	

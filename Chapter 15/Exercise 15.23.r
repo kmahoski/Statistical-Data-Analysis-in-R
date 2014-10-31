@@ -8,4 +8,3 @@ confidenceLevel <- 0.95
 
 wilcox.test(impurities, alternative = "less", mu = nullMedianValue, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = FALSE)
-	

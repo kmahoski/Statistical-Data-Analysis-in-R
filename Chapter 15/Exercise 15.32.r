@@ -5,4 +5,3 @@ confidenceLevel <- 0.95
 
 wilcox.test(heatGains1, heatGains2, alternative = "two.sided", conf.level = confidenceLevel,
 	conf.int = TRUE, paired = FALSE, exact = FALSE, correct = FALSE)
-	

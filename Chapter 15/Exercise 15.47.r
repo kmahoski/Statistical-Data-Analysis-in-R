@@ -8,4 +8,3 @@ impurityLevelDifferences <- impurityLevels1 - impurityLevels2
 
 signTestNormalApproximation(impurityLevelDifferences, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
-	

@@ -8,4 +8,3 @@ cholesterolLevelDifferences <- cholesterolLevels1 - cholesterolLevels2
 
 signTestNormalApproximation(cholesterolLevelDifferences, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
-	

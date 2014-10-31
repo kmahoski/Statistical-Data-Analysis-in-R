@@ -5,4 +5,3 @@ confidenceLevel <- 0.99
 
 wilcox.test(minutesLate1, minutesLate2, alternative = "two.sided", conf.level = confidenceLevel,
 	conf.int = TRUE, paired = FALSE)
-	

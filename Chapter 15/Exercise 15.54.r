@@ -5,4 +5,3 @@ confidenceLevel <- 0.975
 
 wilcox.test(volumes.Ridgecrest, volumes.ValleyView, alternative = "two.sided",
 	conf.level = confidenceLevel, conf.int = TRUE, exact = FALSE, correct = FALSE)
-	

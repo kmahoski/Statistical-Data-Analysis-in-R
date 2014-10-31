@@ -8,4 +8,3 @@ confidenceLevel <- 0.95
 
 signTestNormalApproximation(impurities, md = nullMedianValue,
 	alternative = "less", conf.level = confidenceLevel)
-	

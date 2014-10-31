@@ -13,4 +13,3 @@ diameterMeasurementDifferences <- diameterMeasurements1 - diameterMeasurements2
 
 signTestNormalApproximation(diameterMeasurementDifferences, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
-	

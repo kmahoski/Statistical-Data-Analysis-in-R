@@ -24,4 +24,3 @@ dryingTimesDifferences <- dryingTimes1 - dryingTimes2
 
 signTestNormalApproximation(dryingTimesDifferences, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
-	

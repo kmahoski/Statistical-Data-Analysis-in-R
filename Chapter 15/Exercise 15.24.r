@@ -5,4 +5,3 @@ confidenceLevel <- 0.95
 
 wilcox.test(hardnessReadings1, hardnessReadings2, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = TRUE)
-	
