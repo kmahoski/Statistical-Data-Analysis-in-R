@@ -10,3 +10,4 @@ SIGN.test(compressiveStrengths, md = nullMedianValue,
 # b
 signTestNormalApproximation(compressiveStrengths, md = nullMedianValue,
 	alternative = "greater", conf.level = confidenceLevel)
+
