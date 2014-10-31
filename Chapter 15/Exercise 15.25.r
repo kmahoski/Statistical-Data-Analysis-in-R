@@ -12,3 +12,4 @@ confidenceLevel <- 0.99
 
 wilcox.test(dryingTimes1, dryingTimes2, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = TRUE)
+

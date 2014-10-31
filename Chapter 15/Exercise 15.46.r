@@ -5,3 +5,4 @@ confidenceLevel <- 0.95
 
 signTestNormalApproximation(fluorideLevels, md = nullMedianValue,
 	alternative = "less", conf.level = confidenceLevel)
+

@@ -5,3 +5,4 @@ confidenceLevel <- 0.95
 
 wilcox.test(surfaceFinishes, mu = nullMedianValue, alternative = "two.sided",
 	conf.level = confidenceLevel, conf.int = TRUE)
+

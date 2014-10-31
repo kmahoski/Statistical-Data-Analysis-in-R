@@ -5,3 +5,4 @@ confidenceLevel <- 0.95
 
 signTestNormalApproximation(surfaceFinishes, md = nullMedianValue,
 	alternative = "two.sided", conf.level = confidenceLevel)
+

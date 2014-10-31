@@ -5,3 +5,4 @@ confidenceLevel <- 0.95
 
 wilcox.test(cholesterolLevelsBefore, cholesterolLevelsAfter, conf.level = confidenceLevel,
 	conf.int = TRUE, paired = TRUE)
+
